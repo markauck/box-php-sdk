@@ -1,3 +1,16 @@
+# This SDK has been deprecated. Please use the V2 API: developers.box.com
+
+
+
+
+
+
+
+
+
+
+
+
 The Box_Rest_Client is a simple way to access the Box.net ReST API through PHP. 
 
 ## Dependencies
